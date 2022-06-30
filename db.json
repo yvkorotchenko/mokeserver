@@ -1,6 +1,5 @@
 {
-  "contractors": [
-    {
+  "contractors": {
       "compensationPayment": 0,
       "fixedPayment": 10000,
       "fullName": "Daniil Borysov",
@@ -107,8 +106,7 @@
           "contractorId": "fed2b07a-00b1-47f3-a298-d9f37ca77dca"
         }
       ]
-    }
-  ],
+    },
   "contracts": {
       "givenName": "Daniil",
       "familyName": "Borysov",
