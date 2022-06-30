@@ -109,8 +109,7 @@
       ]
     }
   ],
-  "contracts": [
-    {
+  "contracts": {
       "givenName": "Daniil",
       "familyName": "Borysov",
       "legalName": "FOP BORYSOV DANIIL VOLODYMYROVYCH",
@@ -147,5 +146,4 @@
       "compensationPayment": "0",
       "fixedPayment": "10000"
     }
-  ]
 }
