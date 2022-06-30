@@ -1,5 +1,5 @@
 {
-  "contractors": [
+  "contracts": [
     "givenName": "Daniil",
     "familyName": "Borysov",
     "legalName": "FOP BORYSOV DANIIL VOLODYMYROVYCH",
@@ -33,7 +33,7 @@
     "services": ["Type A"],
     "bankAccount": "UA803220010000026000320057233",
     "pricingType": "PER_HOUR",
-    "compensationPayment": 0,
-    "fixedPayment": 10000
+    "compensationPayment": "0",
+    "fixedPayment": "10000"
     ]
 }
