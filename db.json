@@ -105,11 +105,11 @@
           "createdAt": "2022-06-28T14:36:08.728Z",
           "updatedAt": "2022-06-28T14:36:08.728Z",
           "contractorId": "fed2b07a-00b1-47f3-a298-d9f37ca77dca"
-        },
-      ],
-   },
-  ],
-  "contracts": [
+        }
+      ]
+   }
+   ],
+  "contracts" : [
     {
       "givenName": "Daniil",
       "familyName": "Borysov",
