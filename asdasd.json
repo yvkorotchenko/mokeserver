@@ -117,7 +117,7 @@
      "number": 1,
      "registryCode": "O-dSolide-68",
      "isEstimation": true,
-     "status": true,
+     "status": "active",
      "isSigned": true,
      "createdAt": "2022-06-28T15:18:10.969Z",
      "updatedAt": "2022-06-28T15:18:10.969Z"
