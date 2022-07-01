@@ -107,6 +107,45 @@
           "contractorId": "fed2b07a-00b1-47f3-a298-d9f37ca77dca"
         }
       ]
-	}
+   }
+   ],
+  "contracts" : [
+    {
+      "givenName": "Daniil",
+      "familyName": "Borysov",
+      "legalName": "FOP BORYSOV DANIIL VOLODYMYROVYCH",
+      "taxId": "3714405390",
+      "personalIdentificationRegistryNumber": "20010911-06138",
+      "country": "Ukraine",
+      "region": "Dnipropetrovsk",
+      "city": "Nikopol'",
+      "streetName": "Shevchenka",
+      "streetNumber": "51",
+      "postcode": "53200",
+      "email": "daniil.borysov@solidone.net",
+      "phoneNumber": "380951330450",
+      "jobActivities": [
+        {
+          "number": "62.01",
+          "name": "Комп'ютерне програмування",
+          "custom": false
+        },
+        {
+          "number": "62.02",
+          "name": "Консультування з питань iнформатизацiї",
+          "custom": false
+        },
+        {
+          "number": "62.03",
+          "name": "Дiяльнiсть iз керування комп'ютерним устаткованням",
+          "custom": false
+        }
+      ],
+      "services": ["Type A"],
+      "bankAccount": "UA803220010000026000320057233",
+      "pricingType": "PER_HOUR",
+      "compensationPayment": "0",
+      "fixedPayment": "10000"
+    }
   ]
 }
