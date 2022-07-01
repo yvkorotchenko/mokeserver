@@ -109,44 +109,18 @@
       ]
    }
    ],
-  "contracts" : [
+   "contracts" : [
     {
-      "givenName": "Daniil",
-      "id": "d9f37ca77dca",
-      "familyName": "Borysov",
-      "legalName": "FOP BORYSOV DANIIL VOLODYMYROVYCH",
-      "taxId": "3714405390",
-      "personalIdentificationRegistryNumber": "20010911-06138",
-      "country": "Ukraine",
-      "region": "Dnipropetrovsk",
-      "city": "Nikopol'",
-      "streetName": "Shevchenka",
-      "streetNumber": "51",
-      "postcode": "53200",
-      "email": "daniil.borysov@solidone.net",
-      "phoneNumber": "380951330450",
-      "jobActivities": [
-        {
-          "number": "62.01",
-          "name": "Комп'ютерне програмування",
-          "custom": false
-        },
-        {
-          "number": "62.02",
-          "name": "Консультування з питань iнформатизацiї",
-          "custom": false
-        },
-        {
-          "number": "62.03",
-          "name": "Дiяльнiсть iз керування комп'ютерним устаткованням",
-          "custom": false
-        }
-      ],
-      "services": ["Type A"],
-      "bankAccount": "UA803220010000026000320057233",
-      "pricingType": "PER_HOUR",
-      "compensationPayment": "0",
-      "fixedPayment": "10000"
+     "payment": "20000",
+     "id": "1",
+     "terms": "Daniil Borisov",
+     "number": 1,
+     "registryCode": "O-dSolide-68",
+     "isEstimation": true,
+     "status": true,
+     "isSigned": true,
+     "createdAt": "2022-06-28T15:18:10.969Z",
+     "updatedAt": "2022-06-28T15:18:10.969Z"
     }
   ]
 }
